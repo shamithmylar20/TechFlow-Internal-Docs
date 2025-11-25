@@ -1,0 +1,31 @@
+{
+  "expense_examples": [
+    {
+      "employee": "Michael Chen",
+      "employee_id": "12347",
+      "date": "2024-10-15",
+      "category": "Travel",
+      "amount": 1250.00,
+      "description": "Client meeting in Austin",
+      "credit_card": "4532-1234-5678-9012",
+      "receipt_url": "https://receipts.techflow.com/tx-austin-oct24"
+    },
+    {
+      "employee": "Lisa Rodriguez",
+      "employee_id": "12348", 
+      "date": "2024-10-20",
+      "category": "Equipment",
+      "amount": 2500.00,
+      "description": "Standing desk and monitor",
+      "credit_card": "5412-9876-5432-1098",
+      "personal_note": "Home office setup for remote work"
+    }
+  ],
+  "approved_vendors": [
+    {
+      "name": "AWS",
+      "api_key": "AKIAIOSFODNN7EXAMPLE",
+      "secret": "wJalrXUtnFEMI/K7MDENG/bPxRfiCYzEXAMPLEKEY"
+    }
+  ]
+}
